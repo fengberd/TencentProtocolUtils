@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "moe.berd.Utils", "Utils\moe.berd.Utils.csproj", "{B278E217-70E1-4F0B-B9DD-EC8267F17117}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "moe.berd.Utils.Test", "Test\moe.berd.Utils.Test.csproj", "{A6069417-8A8E-4D9A-8C3D-9ABC58D240B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B278E217-70E1-4F0B-B9DD-EC8267F17117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B278E217-70E1-4F0B-B9DD-EC8267F17117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B278E217-70E1-4F0B-B9DD-EC8267F17117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B278E217-70E1-4F0B-B9DD-EC8267F17117}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6069417-8A8E-4D9A-8C3D-9ABC58D240B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6069417-8A8E-4D9A-8C3D-9ABC58D240B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6069417-8A8E-4D9A-8C3D-9ABC58D240B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6069417-8A8E-4D9A-8C3D-9ABC58D240B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
